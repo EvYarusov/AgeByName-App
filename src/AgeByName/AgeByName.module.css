@@ -1,0 +1,38 @@
+.nameArea {
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 100vh;
+    align-items: center;
+    color: blanchedalmond;
+}
+
+.pageTitle {
+    padding: 30px;
+}
+
+.nameLabel {
+    font-size: 30px;
+    padding: 20px;
+    width: fit-content;
+    margin-top: 40px;    
+}
+
+.nameField,
+.agePlace {
+    background-color: rgb(7, 69, 69);
+    border-radius: 15px;
+    border: none;
+    font-size: 30px;
+    padding: 15px;
+    margin-top: 40px;
+    width: 500px;
+    height: 40px;
+    color:blanchedalmond;
+}
+
+.agePlace {
+    width: 200px;
+    margin-left: -27px;
+}
